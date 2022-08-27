@@ -1,18 +1,18 @@
 
 
-export { default as Ecommerce } from './Ecommerce';
-export { default as Kanban } from './Kanban';
-export { default as Orders } from './Orders';
-export { default as Employees } from './Employees';
-export { default as Editor } from './Editor';
-export { default as Customers } from './Customers';
-export { default as ColorPicker } from './ColorPicker';
-export { default as Calendar } from './Calendar';
-export { default as Area } from './Charts/Area';
-export { default as Bar } from './Charts/Bar';
-export { default as ColorMapping } from './Charts/ColorMapping';
-export { default as Financial } from './Charts/Financial';
-export { default as Line } from './Charts/Line';
-export { default as Pie } from './Charts/Pie';
-export { default as Pyramid } from './Charts/Pyramid';
-export { default as Stacked } from './Charts/Stacked';
+export { Ecommerce } from './Ecommerce';
+export { Kanban } from './Kanban';
+export { Orders } from './Orders';
+export { Employees } from './Employees';
+export { Editor } from './Editor';
+export { Customers } from './Customers';
+export { ColorPicker } from './ColorPicker';
+export { Calendar } from './Calendar';
+export { Area } from './Charts/Area';
+export { Bar } from './Charts/Bar';
+export { ColorMapping } from './Charts/ColorMapping';
+export { Financial } from './Charts/Financial';
+export { Line } from './Charts/Line';
+export { Pie } from './Charts/Pie';
+export { Pyramid } from './Charts/Pyramid';
+export { Stacked } from './Charts/Stacked';
